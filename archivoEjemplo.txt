@@ -1,0 +1,21 @@
+En Python, cualquier línea que inicia con un 
+símbolo de almohadilla o numeral (#) se lla-
+ma comentario y es ignorada por el intérpre-
+te de Python. Los comentarios están pensados
+para permitirle a los programadores comuni-
+carse entre ellos (o para recordarse a sí
+mismos qué es lo que hace el código cuando
+se sientan frente a él algunos meses después
+). En un sentido lato, los programas son es-
+critos y formados de una manera que hace más
+sencillo a los programadores trabajar en
+colectivo. El código que es más cercano a
+los requerimientos de la máquina se denomina
+de bajo nivel, mientras que el código que es
+más cercano al lenguaje propio de los seres
+humanos es llamado de alto nivel. Uno de los
+beneficios de utilizar un lenguaje de progra-
+mación como Python es que es de mayor alto
+nivel, lo que hace más sencillo que podamos
+comunicarnos contigo (claro que con cierto
+costo en términos de eficiencia informática).
