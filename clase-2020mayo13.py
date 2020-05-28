@@ -15,19 +15,19 @@ float_numero = 3.14
 double_numero = 3.09372465741923164573412908374645632781313459876543234567887654
 ### Letras
 # caracteres
-chr_genero = 'f'
-chr_simbolo = '&'
+str_genero = 'f'
+str_simbolo = '&'
 str_oracion = "Hola Clase! Como estan?"
 str_parrafo = """esto es un parrafo de ejemplo
 texto grande descriptivo"""
 ### Operadores de texto
 # Concatenar +
-print ("Hola Clase " + chr_simbolo + ' C')
+print ("Hola Clase " + str_simbolo + ' C')
 print ("Pi es " + str(float_numero))
 
 """
 Tipos de Datos
-int float str chr dict list bool
+int float str dict list bool
 
 Iterable
 range(0,12)
