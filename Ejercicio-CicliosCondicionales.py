@@ -10,6 +10,7 @@ int_preguntasHechas = 0
 #paso 2
 print("Adivina el Animal")
 
+#for pregunta in lista_presguntas
 while int_preguntasHechas < len(lista_presguntas):
     ## Pregunta
     respuesta = input(lista_presguntas[int_preguntasHechas])
