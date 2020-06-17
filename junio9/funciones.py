@@ -30,9 +30,10 @@ def llenarAgenda(nombre, email, telefono):
     ##     si es true continua, sino da mjs de error
     assert isinstance(nombre, str), "nombre no str"
     assert isinstance(telefono, int), "el telefono debe ser int"
+    assert ("@" in email), "error de email"
 
     agenda[nombre]=telefono
-    ## Tarea: guardar el correo
+    ## Tarea: guardar el correo y telefono
 
 # solo puedo ejecutar o llamar una funcion, si ya la defini
 
