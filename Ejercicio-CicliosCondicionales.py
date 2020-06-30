@@ -2,7 +2,7 @@
 
 #paso 1
 int_score = 0
-lista_presguntas = ["Cual es el animal mas largo? ", "Cual oso vive en el polo? ", "Cual es el animal mas rápido? "]
+lista_preguntas = ["Cual es el animal mas largo? ", "Cual oso vive en el polo? ", "Cual es el animal mas rápido? "]
 lista_respuestas = ["Ballena Azul", "Polar", "Cheeta"]
 oportunidades = 0
 

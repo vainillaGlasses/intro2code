@@ -8,10 +8,11 @@
     Restricciones: N/A
 """
 
-int_tamanio = int(input("Diagonal menor: "))
+int_tamanio = 5 # int(input("Diagonal menor: "))
 
-for fila in range(int_tamanio):
-    print ('%s%s'%(' '*(int_tamanio-(fila-1)),'*'*((fila*2)-1)))
+for i in [0, 1, 2, 3, 4]:
+    print ( '1' * (int_tamanio - (i-1)) , '*' * ((i*2)-1))
 
-for fila in range(int_tamanio,0,-1):
-    print ('%s%s'%(' '*(int_tamanio-(fila-1)),'*'*((fila*2)-1)))
+for i in [5, 4, 3, 2, 1]:
+    print ('1' * (int_tamanio-(i-1)),'*'*((i*2)-1))
+
