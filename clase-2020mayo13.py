@@ -5,7 +5,6 @@ hipotenusa, cateto = 23, 9 #Asignacion Simultanea
 hipotenusa = 23
 cateto = 9
 
-
 ###############
 # TIPOS
 ### Numeros
@@ -27,7 +26,7 @@ print ("Pi es " + str(float_numero))
 
 """
 Tipos de Datos
-int float str dict list bool
+int float, str, dict, list, bool
 
 Iterable
 range(0,12)
